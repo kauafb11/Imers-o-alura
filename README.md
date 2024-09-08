@@ -34,7 +34,7 @@ Se você é um desenvolvedor e quer ajudar a melhorar essa aplicação, fique à
 
 * Kauã Ferreira De Barros - Desenvolvedor
 
-  **Dúvidas? **
+  **Dúvidas?**
 
 Se tiver alguma dúvida, pode abrir uma issue aqui no GitHub ou me mandar um email.
 
